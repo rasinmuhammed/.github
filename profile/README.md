@@ -53,6 +53,9 @@ Software Engineer with expertise in data engineering and ML/AI solutions. I buil
 
 ## 💻 Featured Projects
 
+### Reccu - Anime Recommender Engine
+Developed a neural filtering-based content recommender system for anime using dense feature embeddings and similarity scoring with Scikit-learn and TensorFlow. Deployable via Docker, Jenkins, GCP and Google Kubernetes Engine. Implemented experiment tracking using CometML and Code and Artifacts versioning using DVC.
+
 ### [Hotel Reservation Prediction](https://hotel-reservation-prediction-704161002025.us-central1.run.app/)
 MLOps pipeline with LightGBM model for hotel cancellation prediction, deployed via Docker, Jenkins, and GCP
 
