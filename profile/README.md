@@ -85,6 +85,7 @@ ML model leveraging FinBERT and RoBERTa for market trend prediction based on Twi
 ## 💼 What I'm currently focusing on
 
 - Advancing my skills in LLM-based applications and RAG architectures
+- Exploring Deep Learning techniques, particularly in NLP
 - Exploring new data engineering patterns and tools
 - Building scalable, production-ready ML systems
 - Learning to implement SaaS applications
