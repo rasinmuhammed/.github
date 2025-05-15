@@ -1,9 +1,5 @@
 # 👋 Hi there, I'm Muhammed Rasin O M
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Data+Engineer;AI+%26+ML+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
-</div>
-
 ## 💫 About Me
 
 Software Engineer with expertise in data engineering and ML/AI solutions. I build data-driven and machine learning applications leveraging Python, SQL, and cloud technologies. I'm passionate about solving complex problems through innovative tech solutions, from creating intelligent data pipelines and machine learning solutions to developing full-stack applications that deliver real business value.
