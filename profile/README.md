@@ -47,12 +47,50 @@ Software Engineer with expertise in data engineering and ML/AI solutions. I buil
 - Built synthetic data models with Python and SimPy for business demonstrations
 - Mastered full-stack development with React.js/Node.js and data engineering tools (Azure, DBT, Databricks)
 
-## 💻 Featured Projects
+## 🚧 Currently Building
+
+### [🤖 Habeeb AI](/https://www.habeeb-ai.vercel.app/)
+AI-powered coding companion for development teams
+Tech Stack: Next.js 15, TypeScript, PostgreSQL, PGVector, LangChain, Gemini AI
+
+### [📚 Ilmora](/https://www.ilmora-lms.vercel.app/)
+AI-powered learning companion platform with personalized tutors
+Tech Stack: Next.js 15, TypeScript, Supabase, Vapi.ai, OpenAI GPT-4, ElevenLabs
+
+### 🏥 Clinified
+Mobile-first clinical management system for Indian healthcare
+Tech Stack: Flutter, FastAPI, PostgreSQL, Redis, Docker, Kubernetes
+
+### 📄 AuriVault
+AI knowledge management platform with intelligent document processing
+Tech Stack: Next.js 14, TypeScript, tRPC, Prisma, OpenAI, Pinecone
+
+## 💻 Projects
+
+### Sports Analytics Pipeline
+Advanced system for analyzing sports videos with pose estimation, ball tracking, and touch detection
+Key Features:
+🏃‍♂️ Advanced player detection with YOLO
+⚽ Enhanced ball tracking with Kalman filtering
+🦵 MediaPipe-based pose estimation
+📊 Real-time velocity analysis
+
+Tech Stack: Python, OpenCV, MediaPipe, YOLO, Scikit-learn
+
+### Smart Manufacturing ML Pipeline
+Complete MLOps pipeline with GitOps for predicting manufacturing machine efficiency
+Key Features:
+🔄 Complete CI/CD with Jenkins
+🐳 Docker containerization
+☸️ Kubernetes orchestration with ArgoCD
+📊 Logistic Regression model with 14 engineered features
+
+Tech Stack: Python, Jenkins, Docker, Kubernetes, ArgoCD, GCP
 
 ### Reccu - Anime Recommender Engine
 Developed a neural filtering-based content recommender system for anime using dense feature embeddings and similarity scoring with Scikit-learn and TensorFlow. Deployable via Docker, Jenkins, GCP and Google Kubernetes Engine. Implemented experiment tracking using CometML and Code and Artifacts versioning using DVC.
 
-### [Hotel Reservation Prediction](https://hotel-reservation-prediction-704161002025.us-central1.run.app/)
+### Hotel Reservation Prediction
 MLOps pipeline with LightGBM model for hotel cancellation prediction, deployed via Docker, Jenkins, and GCP
 
 ### Habeeb AI
