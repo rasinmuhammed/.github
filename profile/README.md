@@ -49,11 +49,11 @@ Software Engineer with expertise in data engineering and ML/AI solutions. I buil
 
 ## 🚧 Currently Building
 
-### [🤖 Habeeb AI](https://www.habeeb-ai.vercel.app)
+### [🤖 Habeeb AI](https://habeeb-ai.vercel.app)
 AI-powered coding companion for development teams
 Tech Stack: Next.js 15, TypeScript, PostgreSQL, PGVector, LangChain, Gemini AI
 
-### [📚 Ilmora](https://www.ilmora-lms.vercel.app)
+### [📚 Ilmora](https://ilmora-lms.vercel.app)
 AI-powered learning companion platform with personalized tutors
 Tech Stack: Next.js 15, TypeScript, Supabase, Vapi.ai, OpenAI GPT-4, ElevenLabs
 
