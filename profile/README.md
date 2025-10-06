@@ -106,7 +106,8 @@ ML model leveraging FinBERT and RoBERTa for market trend prediction based on Twi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rasinmuhammed&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=rasinmuhammed&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rasinmuhammed&theme=radical&date=20251006" />
+
 
 </div>
 
