@@ -66,22 +66,6 @@ AI-powered mentor that analyzes GitHub activity to provide brutally honest feedb
 
 ---
 
-### 📊 [LMI Agent](https://github.com/rasinmuhammed/lmi-agent) | ![Status](https://img.shields.io/badge/Status-In_Development-yellow)
-**Labor Market Intelligence System**
-
-RAG-powered AI system for real-time labor market analysis and skill gap identification.
-
-**Tech Stack**: FastAPI, Next.js 14, PostgreSQL, pgvector, Groq LLM, Sentence Transformers  
-**Features In Progress**:
-- 🔍 Real-time job market analysis using RAG architecture
-- 📈 Skill gap identification with necessity scoring
-- 🎯 Actionable career development recommendations
-- 📚 Citation-backed insights from real job postings
-
-**Skills Demonstrated**: RAG Systems, Vector Databases, GenAI, Data Engineering
-
----
-
 ### 💼 [Kerala Tech Parks Job Monitor](https://github.com/rasinmuhammed/n8n-kerala-tech-parks-job-monitor) | ![Status](https://img.shields.io/badge/Status-Completed-success)
 **Automated Job Tracking System**
 
@@ -122,18 +106,6 @@ Creating a personalized learning companion with AI tutors and adaptive content.
 - 🗣️ Voice-enabled learning
 - 📊 Adaptive learning paths
 
----
-
-### 🏥 [Clinified](https://github.com/rasinmuhammed/clinified) | ![Status](https://img.shields.io/badge/Status-In_Development-yellow)
-**Clinical Management System**
-
-Mobile-first platform for Indian healthcare with patient management and appointment scheduling.
-
-**Tech Stack**: Flutter, FastAPI, PostgreSQL, Redis, Docker, Kubernetes  
-**Focus Areas**:
-- 📱 Mobile-first design for healthcare providers
-- 🔒 HIPAA-compliant data handling
-- ⚡ Real-time appointment management
 
 ---
 
