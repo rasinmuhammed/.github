@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammed Rasin O M
+# Hi, I'm Muhammed Rasin 
 
 <div align="center">
   
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Software Engineer** with a strong foundation in **data engineering, machine learning, and full-stack development**. My passion lies in solving complex problems through innovative technical solutions that deliver real business value, and I am developing my skills aiming for the same.
 
