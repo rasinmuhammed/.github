@@ -103,7 +103,7 @@ I'm a **Software Engineer** with a strong foundation in **data engineering, mach
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasinmuhammed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rasinmuhammed&theme=radical&hide_border=true&background=0D1117)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=rasinmuhammed&theme=tokyonight&hide_border=true&background=0D1117)
   
 </div>
 
