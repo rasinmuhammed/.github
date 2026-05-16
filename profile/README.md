@@ -14,9 +14,11 @@ B.Tech CS (Data Science). 1+ year of professional experience spanning data engin
 
 ## Open Source
 
-**[misata](https://github.com/rasinmuhammed/misata)** — Synthetic data engine. Natural language → relational schema → vectorized generation. Supports SQLAlchemy seeding, DB introspection, and streaming at 385k rows/sec. `pip install misata` · 1,400+ downloads · 55 ★
+**[node-canon](https://github.com/rasinmuhammed/node-canon)** - Entity resolution and deduplication for LLM-extracted knowledge graphs. Reconnects fragmented graphs by resolving aliases ("IBM" vs "I.B.M.") offline using graph topology and semantic similarity. No LLM calls needed. `pip install nodecanon`
 
-**[rag-tui](https://github.com/rasinmuhammed/rag-tui)** — Terminal debugger for RAG pipelines. Visualize chunking strategies, test retrieval live, export LangChain/LlamaIndex configs. Python API + headless CLI for CI use. `pip install rag-tui` · 20 ★
+**[misata](https://github.com/rasinmuhammed/misata)** - Synthetic data engine. Natural language → relational schema → vectorized generation. Supports SQLAlchemy seeding, DB introspection, and streaming at 385k rows/sec. `pip install misata` · 1,400+ downloads · 55 ★
+
+**[rag-tui](https://github.com/rasinmuhammed/rag-tui)** - Terminal debugger for RAG pipelines. Visualize chunking strategies, test retrieval live, export LangChain/LlamaIndex configs. Python API + headless CLI for CI use. `pip install rag-tui` · 20 ★
 
 ---
 
@@ -52,6 +54,8 @@ I'm always interested in discussing:
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=rasinmuhammed&color=blueviolet&style=for-the-badge)
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rasinmuhammed&theme=dark&hide_border=true)](https://git.io/streak-stats)
   
   ### ⭐️ From [rasinmuhammed](https://github.com/rasinmuhammed)
   
