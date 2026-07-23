@@ -2,7 +2,7 @@
 
 Software Engineer · AI/ML & Full-Stack · Kozhikode, India
 
-[rasin.io](https://rasin.io) · [LinkedIn](https://linkedin.com/in/rasinmuhammed) · [rasinbinabdulla@gmail.com](mailto:rasinbinabdulla@gmail.com)
+[rasin.io](https://rasinmuhammed.tech) · [LinkedIn](https://linkedin.com/in/rasinmuhammed) · [rasinbinabdulla@gmail.com](mailto:rasinbinabdulla@gmail.com)
 
 ---
 
