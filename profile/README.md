@@ -4,16 +4,18 @@
 Computer Science and Engineering graduate with a focus on Data Science.
 
 I admire intelligence, both artificial and human. I am in pursuit of
-creating value. Not an innate coder, but recently I get obsessed with
+creating value. Not an innate coder, but recently I started getting obsessed with
 pain points and learning how things work on the inside. So I learn, and
 I try to do my best at it. Constantly refactoring what I know.
 
 I have this ability to understand problems, not from muscle memory or
 debugging instinct that comes with years, but from the grit to dive into
 documentation and depth until I actually find it. I love learning new things
-everyday, bet it about how transformer architecture works one week, 
+everyday, be it about how transformer architecture works, 
 how protein molecules move in a muscle, or about how aeroplanes fly. 
-I'm still in search of where exactly to point all of it, to commit to.
+I'm still in search of where exactly to point all of it, to commit to deeply,
+in where I can pour my skills and make a change, to put a tiny spot on the
+world to let myself know that I did something too.
 
 *Amateur, working toward mateaur.*
 
